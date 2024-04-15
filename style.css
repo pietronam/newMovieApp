@@ -176,10 +176,6 @@
   overflow: hidden;
 }
 
-::-webkit-scrollbar{
-  color: #F4ABC4;
-}
-
 #search-results{
   display: block;
   background-color: #060930;
@@ -193,4 +189,8 @@
   overflow-x: auto;
   overflow-y: hidden;
   white-space: nowrap;
+}
+
+::-webkit-scrollbar{
+  color: #F4ABC4;
 }
